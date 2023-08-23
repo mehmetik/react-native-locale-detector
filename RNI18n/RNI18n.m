@@ -4,7 +4,7 @@
 //
 //  Created by Alexander Zaytsev on 14/06/15.
 //  Copyright (c) 2015 Alexander Zaytsev. All rights reserved.
-//
+//  UPDATE by Mehmet Karabulut on 23/08/2023
 
 #import "RNI18n.h"
 

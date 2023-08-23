@@ -1,15 +1,17 @@
 {
   "name": "react-native-locale-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detects the locale of a user's phone.",
   "keywords": [
     "android",
     "i18n",
     "ios",
-    "react-native"
+    "react-native",
+    "gradle update",
+    "react-native-locale-detector new version"
   ],
   "license": "MIT",
-  "author": "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
+  "author": "Mehmet Karabulut <mehmetik@gmail.com> (yazilimsoft.com)",
   "main": "index.js",
-  "repository": "DylanVann/react-native-locale-detector"
+  "repository": "mehmetik/react-native-locale-detector"
 }
