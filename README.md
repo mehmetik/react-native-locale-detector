@@ -29,3 +29,5 @@ yourLocalizationLibrary.setLocale(locale)
 ```
 
 This application is update the react-native-locale-detector to support the latest version of react-native. The original library is not maintained anymore.
+Original library:
+https://github.com/DylanVann/react-native-locale-detector
