@@ -13,7 +13,7 @@
   "license": "MIT",
   "author": "Mehmet Karabulut <mehmetik@gmail.com> (yazilimsoft.com)",
   "main": "index.js",
-  "repository": "mehmetik/react-native-locale-detector",
+  "repository": "mehmetik/react-native-locale-detector-v2",
   "publishConfig": {
     "@mehmetik:registry": "https://npm.pkg.github.com"
   }
